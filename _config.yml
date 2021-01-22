@@ -1,1 +1,65 @@
-name: My Jekyll Website
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Iron Cube
+description: |
+  "Iron Cube: Voxel Tank Shooter" is a free tank action game in a completely destructible voxel world!
+owner: ironcube # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: yak32.games@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.ironcube.net" # the base hostname & protocol for your site
+social:
+  youtube: https://www.youtube.com/channel/UCp5nNJRuGcsBhay8wZxBAsg
+  #github: https://github.com/yak32
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://www.facebook.com/yakov.sum
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: 259799447
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
