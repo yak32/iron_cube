@@ -3,8 +3,7 @@
 
 # Site settings
 title: Iron Cube
-description: |
-  "Iron Cube: Voxel Tank Shooter" is a free tank action game in a completely destructible voxel world!
+description: Iron Cube: Voxel Tank Shooter is a free tank action game in a completely destructible voxel world!
 owner: ironcube # or company name
 name: Iron Cube
 first_published: 2016 # if migrating another site, the year of your first publish
